@@ -1,7 +1,10 @@
 .wrapper {
   text-align: center;
-  margin: auto;
   background-color: rgb(151, 187, 255);
+}
+.cv_content {
+  width: 100%;
+  margin: auto;
 }
 h1 {
   font-size: 250%;
